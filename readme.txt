@@ -6,7 +6,7 @@ I got lazy in the schematics and mainly used busses, so they aren't that easy to
 
 Modem commands are under the Zimodem directory.
 
-
+Quick install guides are uner the QuickInstallGuides directory.
 
 Much thanks to Dr. Evil Laboratories for designing the original Swiftlink Cart.
 And of course Bo Zimmerman for the very excellent Zimodem firmware.
