@@ -1,9 +1,7 @@
 These are internal Swiftlink compatible High Speed Uart for the Commodore 64/128.
 Uses swiftlink drivers in your favorite terminal program/bbs.
 
-Premade units are available on my Tindie store.
-
-https://www.tindie.com/stores/dabone/
+Currently I'm only making these as they are ordered. Contact me here, or on Lemon64 to get one already assembled and tested.
 
 I got lazy in the schematics and mainly used busses, so they aren't that easy to follow on paper.
 
