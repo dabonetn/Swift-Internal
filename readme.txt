@@ -1,38 +1,8 @@
-These are internal Swiftlink compatible High Speed Uart for the Commodore 64/128.
-Uses swiftlink drivers in your favorite terminal program/bbs.
+I've moved the internal modems under the main Link-232-Wifi project.
 
-Currently I'm only making these as they are ordered. Contact me here, or on Lemon64 to get one already assembled and tested.
+Please see here.
 
-I got lazy in the schematics and mainly used busses, so they aren't that easy to follow on paper.
+https://github.com/dabonetn/Link232-Wifi
 
-
-Modem commands are under the Zimodem directory.
-
-Quick install guides are uner the QuickInstallGuides directory.
-
-I've added replacement swiftlink drivers for Centipede 128 bbs that allows DE,DF, and D7 usage. (Not with the same driver...)
-
-
-Much thanks to Dr. Evil Laboratories for designing the original Swiftlink Cart.
-And of course Bo Zimmerman for the very excellent Zimodem firmware.
-
-Firmware on this page defaults to:
-
-19200 Baud
-Hardware Flow Control (CTS/RTS)
-
-
-
-
-The current zimodem firmware is forked from version "3.5.6"
-
-
-To update to the current firmware use the command
-
-at&u6502
-
-
-For usage of zimodem, see the readme in the zimodem directory.
-Link232-Wifi is based off the ESP-12, not the ESP32, so No esp32 only features will work.
 
 
